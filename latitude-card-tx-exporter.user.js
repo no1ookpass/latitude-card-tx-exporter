@@ -5,6 +5,7 @@
 // @description  Download Credit Card Transaction History from Latitude Finance
 // @author       Hiroshi Wada
 // @match        https://*.latitudefinancial.com.au/*
+// @match        https://*.gemvisa.co.nz/*
 // @grant        none
 // ==/UserScript==
 
